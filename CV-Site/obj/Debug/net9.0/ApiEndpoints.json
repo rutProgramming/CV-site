@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "CV_Site.Controllers.GitHubController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/GitHub/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CV_Site.Controllers.GitHubController",
+    "Method": "Search",
+    "RelativePath": "api/GitHub/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

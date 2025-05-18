@@ -1,0 +1,12 @@
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\bin\Debug\net9.0\CV-Site.Service.deps.json
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\bin\Debug\net9.0\CV-Site.Service.dll
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\bin\Debug\net9.0\CV-Site.Service.pdb
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.AssemblyInfo.cs
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.dll
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\refint\CV-Site.Service.dll
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\CV-Site.Service.pdb
+C:\Users\97250\Desktop\rut\CV-Site\CV-Site.Service\obj\Debug\net9.0\ref\CV-Site.Service.dll
